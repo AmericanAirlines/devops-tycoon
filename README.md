@@ -46,14 +46,14 @@ Ultimately, the goal is to have the highest score (participant $) after the 10 r
 
 ### DevOps Practice Investments
 
-|Name|Benefit|Cost:
-|---|---|---|
-|CI/CD Pipeline|Reduce losses by $10 and increment defect score by one|$40|
-|Feature flags|Reduce losses by $10|$20|
-|End to end ownership|Reduce losses by $20 and increment defect score by one|$50|
-|Pair programming|Increment defect score by one|$30|
-|Test Driven Development (TDD)|Increment defect score by two|$70|
-|Infrastructure as code|Reduce losses by $10 and increment defect score by one|$40|
+|Name|Defect Cost|Defect risk|Development Cost|
+|---|---|---|---|
+|CI/CD Pipeline|Reduce losses by $10| increment defect score by one|$40|
+|Feature flags|Reduce losses by $10||$20|
+|End to end ownership|Reduce losses by $20|increment defect score by one|$50|
+|Pair programming||Increment defect score by one|$30|
+|Test Driven Development (TDD)||Increment defect score by two|$70|
+|Infrastructure as code|Reduce losses by $10|increment defect score by one|$40|
 
 #### Attribution
 
